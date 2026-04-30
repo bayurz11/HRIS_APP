@@ -1518,6 +1518,8 @@ employee_loan_installments
 
 HARIS harus API-ready untuk mobile app, integrasi eksternal, dan employee self service.
 
+Dokumentasi endpoint yang sudah diimplementasikan tersedia di [docs/api/v1.md](docs/api/v1.md). Koleksi Postman dan environment lokal tersedia di [docs/api/HARIS_API_v1.postman_collection.json](docs/api/HARIS_API_v1.postman_collection.json) dan [docs/api/HARIS_API_v1.postman_environment.json](docs/api/HARIS_API_v1.postman_environment.json).
+
 ### Prinsip API
 
 - Gunakan `/api/v1`
