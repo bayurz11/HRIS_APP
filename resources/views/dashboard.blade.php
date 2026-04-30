@@ -1,0 +1,1 @@
+@include('modules.dashboard.index')
